@@ -1,0 +1,18 @@
+.upper{
+    height: 400px;
+    width: 700px;
+    border:solid black ;
+}
+.a{
+    width: 700px;
+    height: 200px;
+    background-color:#e20107;
+}
+.b{
+    width: 700px;
+    height: 200px;
+    background-color: white;
+}
+h1{
+    padding-left: 200px;
+}
